@@ -122,3 +122,4 @@ class WiggleShader extends FlxShader
 			gl_FragColor = texture2D(bitmap, uv);
 		}')
 }
+//Tf is this im just tryina do an android port
